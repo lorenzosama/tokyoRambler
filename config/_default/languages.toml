@@ -3,16 +3,16 @@
     contentDir = "content/en"
     weight = 1
     [en.params.head]
-        tagline = "A Hugo Theme"
+        tagline = "Exploring Tokyo"
     [en.params.feature]
-        message = "Welcome to Hinode!"
-        tagline = "A clean documentation and blog theme for your Hugo site based on Bootstrap 5."
+        message = "Welcome to Tokyo Rambler!"
+        tagline = "A newsletter highlighting fun things to do in Tokyo."
         link = "/en/about"
         caption = "About"
     [en.params.footer]
         license = "Licensed under Creative Commons (<a href='https://creativecommons.org/licenses/by-nc-sa/4.0/' class='link-secondary' target='_blank'>CC BY-NC-SA 4.0</a>)."
         socialTitle = "Follow me"
-        socialCaption = "I work on everything coding and tweet developer memes"
+        socialCaption = "Exploring Tokyo your way"
 
 [nl]
     languageName = "Nederlands"
