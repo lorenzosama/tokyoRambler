@@ -1,4 +1,4 @@
 ---
-author: Mark Dumay
-title: Blog
+author: Lorenzo Canales
+title: Tokyo Rambler
 ---
