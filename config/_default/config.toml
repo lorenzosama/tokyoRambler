@@ -4,7 +4,7 @@ paginate = 9
 enableGitInfo = true
 
 # additional settings
-baseURL = "https://<lorenzosama.gitlab.io/tokyoRambler"
+baseURL = "https://lorenzosama.github.io/tokyoRambler/"
 canonifyURLs = false
 enableEmoji = true
 enableRobotsTXT = true
