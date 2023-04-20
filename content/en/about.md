@@ -7,7 +7,7 @@ showComments: false
 
 <section class="section section-sm mt-5 mb-5">
     <div class="container-fluid">
-    <h2>We aim to be more than standard "must do" Tokyo sites. We'll break things down into 
+    <h2>We aim to be more than standard "must do" Tokyo sites. We'll break things down into
     </h2>
         <div class="row justify-content-center text-center">
             <div class="col-lg-4">
@@ -17,5 +17,5 @@ showComments: false
             <div class="col-lg-4">
                 <h2 class="h4">Individual locations</h2>
                 <p>I'll highlight individual activities, sites, and places too. They've been tagged for easier lookup</p>
-            </div>  
+            </div>
 </section>
