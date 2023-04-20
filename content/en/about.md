@@ -17,7 +17,5 @@ showComments: false
             <div class="col-lg-4">
                 <h2 class="h4">Individual locations</h2>
                 <p>I'll highlight individual activities, sites, and places too. They've been tagged for easier lookup</p>
-            </div>
-            
+            </div>  
 </section>
-
