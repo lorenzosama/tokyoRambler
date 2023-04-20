@@ -1,3 +1,4 @@
+# Using Hinode theme
 [main]
     separator = "-"
     description = "Interesting places all around Tokyo"
@@ -9,12 +10,12 @@
 
 [home]
     sections = ["blog", "projects"]
-    featurePhoto = "/img/sunrise.jpg" # source: https://unsplash.com/photos/ZX6BPboJrYk
+    featurePhoto = "/img/tokyo_header.png" # source: https://unsplash.com/photos/ZX6BPboJrYk
     fullCover = false
 
 [navigation]
     anchor = true
-    logo = "/img/logo_icon.svg"
+    logo = "/img/logo.png"
     color = "body"
     style = "light"
     fixed = true
@@ -51,7 +52,7 @@
         homepage = 3
 
 [favicon]
-    logo = "img/favicon.png"
+    logo = "img/torii.png"
     sizes = [16, 32, 48]
 
 [style]
@@ -69,19 +70,18 @@
 
 [schema]
     type = "Organization"
-    name = "Hinode"
+    name = "Tokyo Rambler"
     locale = "en-US"
     # twitter = "https://twitter.com/gethinode"
-    # linkedIn = ""
-    github = "https://github.com/gethinode/hinode"
+    linkedin = "https://www.linkedin.com/in/lorenzo-canales-b6b65b62/"
+    github = "https://github.com/lorenzosama/tokyoRambler"
     section = "blog"
     [author]
-        name = "Mark Dumay"
-        # twitter = "https://twitter.com/markdumay"
-        linkedin = "https://www.linkedin.com/in/markdumay/"
-        github = "https://github.com/markdumay"
+        name = "Lorenzo Canales"
+        linkedin = "https://www.linkedin.com/in/lorenzo-canales-b6b65b62/"
+        github = "https://github.com/lorenzosama"
     [logo]
-        url = "img/logo512x512.png"
+        url = "img/logo512.png"
         width = 512
         height = 512
     [image]

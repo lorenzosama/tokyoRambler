@@ -4,25 +4,25 @@
   weight = 10
 
 [[main]]
-  name = "Blog"
+  name = "Things to do"
   url = "/blog/"
   weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "/projects/"
+  name = "Neighborhoods"
+  url = "/neighborhoods/"
   weight = 30
 
 [[main]]
-  name = "Sample project"
-  url = "/en/projects/sample-project/"
-  parent = "Projects"
+  name = "Asakusa"
+  url = "/en/neighborhoods/asakusa/"
+  parent = "Neighborhoods"
   weight = 1
 
 [[main]]
-  name = "Another project"
-  url = "/en/projects/another-project/"
-  parent = "Projects"
+  name = "Ueno"
+  url = "/en/neighborhoods/ueno/"
+  parent = "Neighborhoods"
   weight = 2
 
 [[main]]
@@ -53,19 +53,3 @@
   url = "/blog/"
   weight = 10
 
-[[sample]]
-  name = "Projects"
-  url = "/projects/"
-  weight = 20
-
-[[sample]]
-  name = "Sample project"
-  url = "/en/projects/sample-project/"
-  parent = "Projects"
-  weight = 1
-
-[[sample]]
-  name = "Another project"
-  url = "/en/projects/another-project/"
-  parent = "Projects"
-  weight = 2
