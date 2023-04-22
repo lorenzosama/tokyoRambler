@@ -18,7 +18,7 @@
     color = "body"
     style = "light"
     fixed = true
-    offset = "1.8em"
+    offset = "1em"
     search = true
     breadcrumb = false
     toc = true
@@ -36,7 +36,7 @@
         footer = "none"
         orientation = "stacked"
         style = "border-0"
-        homepage = 3
+        homepage = 6
     #[projects]
     #    title = "Projects"
     #    sort = "title"

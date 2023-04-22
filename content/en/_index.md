@@ -1,4 +1,4 @@
 ---
 author: Lorenzo Canales
-title: Rambling through Tokyo Japan and sharing the wonderful things I find
+title: Sharing the wonderful things I find in Tokyo
 ---
