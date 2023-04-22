@@ -9,17 +9,16 @@
     basePath = "node_modules/@gethinode/hinode"
 
 [home]
-    sections = ["blog", "projects"]
+    sections = ["blog"] #, "projects"]
     featurePhoto = "/img/tokyo_header.png" # source: https://unsplash.com/photos/ZX6BPboJrYk
     fullCover = false
 
 [navigation]
     anchor = true
-    logo = "/img/logo.png"
     color = "body"
     style = "light"
     fixed = true
-    offset = "3.8em"
+    offset = "1.8em"
     search = true
     breadcrumb = false
     toc = true
@@ -27,7 +26,7 @@
 
 [list]
     [blog]
-        title = "Blog"
+        title = "Things to do and see"
         sort = "date"
         reverse = false
         cols = 3
@@ -38,21 +37,21 @@
         orientation = "stacked"
         style = "border-0"
         homepage = 3
-    [projects]
-        title = "Projects"
-        sort = "title"
-        reverse = false
-        cols = 1
-        color = ""
-        padding = "3"
-        header = "none"
-        footer = "tags"
-        orientation = "none"
-        style = "border-1 card-emphasize"
-        homepage = 3
+    #[projects]
+    #    title = "Projects"
+    #    sort = "title"
+    #    reverse = false
+    #    cols = 1
+    #    color = ""
+    #    padding = "3"
+    #    header = "none"
+    #    footer = "tags"
+    #    orientation = "none"
+    #    style = "border-1 card-emphasize"
+    #    homepage = 3
 
 [favicon]
-    logo = "img/torii.png"
+    logo = "/img/torii.png"
     sizes = [16, 32, 48]
 
 [style]

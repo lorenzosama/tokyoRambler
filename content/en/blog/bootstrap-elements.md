@@ -1,7 +1,7 @@
 ---
 author: Mark Dumay
 title: Bootstrap elements
-date: 2023-02-17
+date: 2025-02-17
 description: Use shortcodes to add common Bootstrap elements with ease.
 tags: ["bootstrap", "shortcode"]
 thumbnail: img/boots.jpg

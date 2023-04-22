@@ -32,24 +32,24 @@
 
 [[social]]
   name = "LinkedIn"
-  pre = "<i class=\"fab fa-linkedin fa-2x\"></i>"
-  url = "https://linkedin.com/"
+  pre = "<div class=\"fab fa-linkedin fa-2x\"></div>"
+  url = "https://www.linkedin.com/in/lorenzo-canales-b6b65b62/"
   weight = 10
 
 [[social]]
   name = "GitHub"
   pre = "<i class=\"fab fa-github fa-2x\"></i>"
-  url = "https://github.com/"
+  url = "https://github.com/lorenzosama"
   weight = 20
 
-[[social]]
-  name = "Medium"
-  pre = "<i class=\"fab fa-medium fa-2x\"></i>"
-  url = "https://medium.com/"
-  weight = 30
+#[[social]]
+#  name = "Medium"
+#  pre = "<i class=\"fab fa-medium fa-2x\"></i>"
+#  url = "https://medium.com/"
+#  weight = 30
 
 [[sample]]
-  name = "Blog"
+  name = "Test"
   url = "/blog/"
   weight = 10
 
