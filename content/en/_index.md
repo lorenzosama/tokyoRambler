@@ -1,4 +1,4 @@
 ---
 author: Lorenzo Canales
-title: Sharing the wonderful things I find in Tokyo
+title: Sharing my favorite places in my favorite city
 ---
