@@ -1,7 +1,7 @@
 {
   "name": "@gethinode/child",
   "version": "0.7.5",
-  "description": "Hinode is a clean blog theme for Hugo, an open-source static site generator",
+  "description": "Blog built on hinode and hugo to share places in Tokyo",
   "main": "index.js",
   "scripts": {
     "init": "shx rm -rf .git && git init -b main",
@@ -37,7 +37,7 @@
   "devDependencies": {
     "@fortawesome/fontawesome-free": "^6.4.0",
     "@fullhuman/postcss-purgecss": "^5.0.0",
-    "@gethinode/hinode": "^0.11.7",
+    "@gethinode/hinode": "^0.11.8",
     "autoprefixer": "^10.4.14",
     "bootstrap": "^5.3.0-alpha3",
     "eslint": "^8.38.0",
@@ -47,7 +47,7 @@
     "eslint-plugin-promise": "^6.1.1",
     "flexsearch": "^0.7.31",
     "hugo-bin": "^0.102.0",
-    "markdownlint-cli2": "^0.6.0",
+    "markdownlint-cli2": "^0.0.1",
     "postcss-cli": "^10.1.0",
     "purgecss-whitelister": "^2.4.0",
     "shx": "^0.3.4",
