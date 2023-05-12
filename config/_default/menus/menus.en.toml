@@ -1,17 +1,17 @@
 [[main]]
   name = "About"
   url = "/about/"
-  weight = 10
+  weight = 50
 
 [[main]]
-  name = "Things to do"
+  name = "Sights"
   url = "/blog/"
-  weight = 20
+  weight = 1
 
 [[main]]
   name = "Neighborhoods"
   url = "/neighborhoods/"
-  weight = 30
+  weight = 20
 
 [[main]]
   name = "Asakusa"
@@ -28,7 +28,7 @@
 [[main]]
   name = "Tags"
   url = "/tags/"
-  weight = 40
+  weight = 30
 
 [[social]]
   name = "LinkedIn"

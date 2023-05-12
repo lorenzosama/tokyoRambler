@@ -1,10 +1,10 @@
 ---
 author: Lorenzo Canales
-title: Sensō-ji 
+title: Kiyosumi Shirakawa
 date: 2023-04-24
 description: My favorite shrine. This is where natives go to be tourists
 tags: ["Asakusa", "shinto shrine", "temple", "traditional" ]
-thumbnail: img/sensoji.jpg
+thumbnail: img/kiyosumi-shirakawa.jpg
 photoCredits: <a href="https://unsplash.com/@tatsuya000">Tim de Groot</a>
 photoSource: <a href="https://unsplash.com/photos/ryITDFCd8VI">Unsplash</a>
 address: 2 Chome-3-1 Asakusa, Taito City, Tokyo 111-0032, Japan
