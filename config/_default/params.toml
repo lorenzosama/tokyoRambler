@@ -24,6 +24,34 @@
     toc = true
     sidebar = true
 
+[sections]
+    [sections.blog]
+        title = "Blog"
+        sort = "date"
+        reverse = true
+        cols = 3
+        color = ""
+        padding = "0"
+        header = "full"
+        footer = "none"
+        orientation = "stacked"
+        style = "border-0 card-zoom"
+        homepage = 3
+        separator = true
+    [sections.projects]
+        title = "Projects"
+        sort = "title"
+        reverse = false
+        cols = 1
+        color = "body-tertiary"
+        padding = "3"
+        header = "none"
+        footer = "tags"
+        orientation = "none"
+        style = "border-1 card-emphasize"
+        homepage = 3
+        separator = false
+
 [list]
     [blog]
         title = "Things to do and see"
